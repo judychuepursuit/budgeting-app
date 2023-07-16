@@ -43,7 +43,7 @@ This "budget-app-front" is the backend app portion that pairs with the "budget-a
 </p>
 <h2>Contributing</h2>
 <p>
-I am a begginner Full-Stack web developer open to collaborating together to create functional, effective and beautiful sites. Feel free to open an issue or submit a pull request.
+I am a begginner Full-Stack web developer open to working together to create functional, effective and beautiful sites. Feel free to reach out to me for opportunities in collaborating or reach out and open an issue or submit a pull request.
 </p>
     <h2>License</h2>
 <p>
