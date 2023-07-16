@@ -2,7 +2,11 @@ judychuepursuit
 <!DOCTYPE html>
 <html>
   <head>
-   <h1>👋🏻 Welcome to My Budgeting App by Judy Chue 👋🏻</h1>
+<<h1>👋🏻 Hello &  Welcome to My Budgeting App👋🏻</h1>
+<h3>by Judy Chue</h3>
+  </head>
+  <body>
+    <h1>Budgeting App Frontend</h1>
   </head>
   <body>
     <h1>Budgeting App Backend</h1>
