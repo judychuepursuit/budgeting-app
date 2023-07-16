@@ -2,13 +2,14 @@ judychuepursuit
 <!DOCTYPE html>
 <html>
   <head>
-    Welcome to My Budgeting App by Judy Chue!
+   👋🏻 Welcome to My Budgeting App by Judy Chue 👋🏻!
   </head>
   <body>
     <h2>Budgeting App Backend</h2>
     <p>
-      This backend app portion pairs with a front end budgeting app. And was built using
-      <h3><a href="https://expressjs.com/">Express.js</a></h3>
+      This "budgeting-app" is the backend app portion that pairs with the "budget-app-front" for the Project Called Budget App. This back end app was  
+ was built using 
+      <h3><a href="https://expressjs.com/">Express.js: Express.js is a back end web application framework for using Node.js to build APIs and web applications.</a></h3>
     </p>
     <h2>This App implements the C-R-U-D points.</h2>
     <p>
@@ -37,7 +38,7 @@ judychuepursuit
       <br />
       <ul>
         <li>DATABASE_URL: The URL of the database.</li>
-        <li>PORT: The port number to run the server on.</li>
+        <li>PORT: <a href="http://http://localhost:3000">http://localhost:3006.</li>
       </ul>
     </p>
     <h2>Contributing</h2>
