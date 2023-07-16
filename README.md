@@ -27,7 +27,7 @@ This "budget-app" is the backend app portion that pairs with the "budget-app-fro
       <li>PUT /transactions/: id: Updates the transaction with the specified ID.</li>
       <li>DELETE /transactions/: id: Deletes the transaction with the specified ID.</li>
 </ul>
-<h2>Budgeting App Backend</h2>
+<h2>Budgeting App Frontend</h2>
 <p>
   The REACT app uses the following installs and dependencies: axios, react, react-dom, react-router-dom, react-scripts, uuid, web-vitals in order to connect to the back end and the request be viewed on local host.
 <br>
