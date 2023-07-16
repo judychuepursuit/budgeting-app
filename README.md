@@ -4,11 +4,6 @@ judychuepursuit
   <head>
 <<h1>👋🏻 Hello &  Welcome to My Budgeting App👋🏻</h1>
 <h3>by Judy Chue</h3>
-  </head>
-  <body>
-    <h1>Budgeting App Frontend</h1>
-  </head>
-  <body>
     <h1>Budgeting App Backend</h1>
     <p>
 This "budget-app-front" is the backend app portion that pairs with the "budget-app-front" (frontend app) for the Project named Budget App.
