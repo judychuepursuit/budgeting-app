@@ -6,7 +6,7 @@ judychuepursuit
 <h3>by Judy Chue</h3>
     <h1>Budgeting App Backend</h1>
     <p>
-This "budget-app-front" is the backend app portion that pairs with the "budget-app-front" (frontend app) for the Project named Budget App.
+This "budget-app" is the backend app portion that pairs with the "budget-app-front" (frontend app) for the Project named Budget App.
 <br> Here's my Trello Board: https://trello.com/invite/b/h1zCeMxp/ATTI3eaecc14084ef4a9b610e45975617a2bC0E63F33/jc-project-budgeting-app
 <br>
 <h2> Here are the Github repository links to the Front and Back end of My Budget Apps:</h2>
