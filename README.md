@@ -37,7 +37,7 @@ This "budget-app" is the backend app portion that pairs with the "budget-app-fro
 <ul>
     <li>💻 judychue@pursuit.org or chue.judy@gmail.com</li>
     <li>📞 917-438-8652</li>
-    <li>💟 https://www.linkedin.com/in/judy-chue-53697015/</li>
+    <li>💟 <a href="https://www.pursuit.org/](https://www.linkedin.com/in/judy-chue-53697015/"</a></li>
     <li>💡 https://judychuepursuit.github.io/my-bio-judy-chue/</li>
 </p>
 <h2>Contributing</h2>
