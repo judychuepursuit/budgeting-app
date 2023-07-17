@@ -43,7 +43,7 @@ This "budget-app-front" is the frontend app portion that pairs with the "budget-
     <li>💡  https://judychuepursuit.github.io/my-bio-judy-chue/</li>
 </ul>
 </p>
-<h2>Contributing</h2>
+<h2>Collaboration & work opportunities</h2>
 <p>
 As a begginner Full-Stack web developer I am seeking and am open to collaborating on work projects. Feel free to reach out to me if you have any job opportunities that I may be a good fit, I look forward to working woth you. You can also reach out and open an issue or submit a pull request.
 </p>
