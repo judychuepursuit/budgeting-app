@@ -34,7 +34,7 @@ This "budget-app-front" is the frontend app portion that pairs with the "budget-
   The REACT app uses the following installs and dependencies: axios, react, react-dom, react-router-dom, react-scripts, uuid, web-vitals in order to connect to the back end and the request be viewed on local host.
 <br>
   <h2>Budgeting App Backend</h2>
-  The EXPRESS app uses the following installs and dependencies: express, nodemon, dotenv & cors. Also, add .env and type in the PORT=3006 edit the last # accordingly. Make sure that the .env file has been correctly saved inside the main folder.  
+  The EXPRESS app uses the following installs and dependencies: express, nodemon, dotenv & cors. Also, add .env and type in the PORT=3006 (edit the last # accordingly). Make sure that the .env file has been correctly saved inside the main folder.  
   <h2>contact info:</h2>
 <ul>
     <li>💻  judychue@pursuit.org or chue.judy@gmail.com</li>
@@ -45,7 +45,7 @@ This "budget-app-front" is the frontend app portion that pairs with the "budget-
 </p>
 <h2>Contributing</h2>
 <p>
-I am a begginner Full-Stack web developer open to working together to create functional, effective and beautiful sites. Feel free to reach out to me for opportunities in collaborating or reach out and open an issue or submit a pull request.
+As a begginner Full-Stack web developer I am seeking and am open to collaborating on work projects. Feel free to reach out to me if you have any job opportunities that I may be a good fit, I look forward to working woth you. You can also reach out and open an issue or submit a pull request.
 </p>
     <h2>License</h2>
 <p>
