@@ -10,16 +10,15 @@ judychuepursuit
     <p>
 This "budget-app-front" is the frontend app portion that pairs with the "budget-app" (backend app) for the Project named Budget App.
 <br> 
-<h1>My Trello Board:<h2> https://trello.com/invite/b/h1zCeMxp/ATTI3eaecc14084ef4a9b610e45975617a2bC0E63F33/jc-project-budgeting-app</h1>
-
+<h1> My Trello Board:<h2> https://trello.com/invite/b/h1zCeMxp/ATTI3eaecc14084ef4a9b610e45975617a2bC0E63F33/jc-project-budgeting-app</h1>
 <h2> Here are the Github repository links to the Front and Back end of My Budget App:</h2>
-      <ul>
+    <ul>
         <li>DATABASE_URL: https://github.com/judychuepursuit/budget-app-front</li>
         <li>PORT: <a href="http://http://localhost:3000">http://localhost:3006</a></li>
 <br>
         <li>DATABASE_URL: https://github.com/judychuepursuit/budgeting-app</li>
         <li>PORT: <a href="http://http://localhost:3000">http://localhost:3000</a></li>
-      </ul>
+    </ul>
 
 <h2> This App applies the C-R-U-D points.</h2>
 <p>HTTP Methods: HTTP methods are also called verbs. They are types of requests you can make to a server. The four most common ones are listed below:</p>
