@@ -2,7 +2,7 @@ judychuepursuit
 <!DOCTYPE html>
 <html>
   <head>
-   <h1>👋🏻 Hello &  Welcome to My Budgeting App👋🏻</h1>
+   <h1>👋🏻 Hello &  Welcome to My Budgeting App 👋🏻</h1>
 <h3>by Judy Chue</h3>
   </head>
   <body>
@@ -37,10 +37,11 @@ This "budget-app-front" is the frontend app portion that pairs with the "budget-
   The EXPRESS app uses the following installs and dependencies: express, nodemon, dotenv & cors. Also, add .env and type in the PORT=3006 edit the last # accordingly. Make sure that the .env file has been correctly saved inside the main folder.  
   <h2>contact info:</h2>
 <ul>
-    <li>💻 judychue@pursuit.org or chue.judy@gmail.com</li>
-    <li>📞 917-438-8652</li>
-    <li>💟 <a https://www.linkedin.com/in/judy-chue-53697015/"</a></li>
-    <li>💡 https://judychuepursuit.github.io/my-bio-judy-chue/</li>
+    <li>💻  judychue@pursuit.org or chue.judy@gmail.com</li>
+    <li>📞  917-438-8652</li>
+    <li>💟  https://www.linkedin.com/in/judy-chue-53697015/</li>
+    <li>💡  https://judychuepursuit.github.io/my-bio-judy-chue/</li>
+</ul>
 </p>
 <h2>Contributing</h2>
 <p>
