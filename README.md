@@ -2,20 +2,23 @@ judychuepursuit
 <!DOCTYPE html>
 <html>
   <head>
-<<h1>👋🏻 Hello &  Welcome to My Budgeting App👋🏻</h1>
+   <h1>👋🏻 Hello &  Welcome to My Budgeting App👋🏻</h1>
 <h3>by Judy Chue</h3>
-    <h1>Budgeting App Backend</h1>
+  </head>
+  <body>
+    <h1>Budgeting App Frontend</h1>
     <p>
-This "budget-app" is the backend app portion that pairs with the "budget-app-front" (frontend app) for the Project named Budget App.
-<br> Here's my Trello Board: https://trello.com/invite/b/h1zCeMxp/ATTI3eaecc14084ef4a9b610e45975617a2bC0E63F33/jc-project-budgeting-app
-<br>
+This "budget-app-front" is the frontend app portion that pairs with the "budget-app" (backend app) for the Project named Budget App.
+<br> 
+<h1>My Trello Board:<h2> https://trello.com/invite/b/h1zCeMxp/ATTI3eaecc14084ef4a9b610e45975617a2bC0E63F33/jc-project-budgeting-app</h1>
+
 <h2> Here are the Github repository links to the Front and Back end of My Budget App:</h2>
       <ul>
         <li>DATABASE_URL: https://github.com/judychuepursuit/budget-app-front</li>
-        <li>PORT: <a href="http://http://localhost:3000">http://localhost:3006</li>
+        <li>PORT: <a href="http://http://localhost:3000">http://localhost:3006</a></li>
 <br>
         <li>DATABASE_URL: https://github.com/judychuepursuit/budgeting-app</li>
-        <li>PORT: <a href="http://http://localhost:3000">http://localhost:3000</li>
+        <li>PORT: <a href="http://http://localhost:3000">http://localhost:3000</a></li>
       </ul>
 
 <h2> This App applies the C-R-U-D points.</h2>
