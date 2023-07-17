@@ -11,7 +11,7 @@ judychuepursuit
 This "budget-app-front" is the frontend app portion that pairs with the "budget-app" (backend app) for the Project named Budget App.
 <br> 
 <h1> My Trello Board:<h2> https://trello.com/invite/b/h1zCeMxp/ATTI3eaecc14084ef4a9b610e45975617a2bC0E63F33/jc-project-budgeting-app</h1>
-<h2> Here are the Github repository links to the Front and Back end of My Budget App:</h2>
+<h2> Here are the Github repository links: Front and Back end of My Budget App:</h2>
     <ul>
         <li>DATABASE_URL: https://github.com/judychuepursuit/budget-app-front</li>
         <li>PORT: <a href="http://http://localhost:3000">http://localhost:3006</a></li>
@@ -43,7 +43,7 @@ This "budget-app-front" is the frontend app portion that pairs with the "budget-
     <li>💡  https://judychuepursuit.github.io/my-bio-judy-chue/</li>
 </ul>
 </p>
-<h2>Collaboration & work opportunities</h2>
+<h2>Seeking Work & Collaboration opportunities</h2>
 <p>
 As a begginner Full-Stack web developer I am seeking and am open to collaborating on work projects. Feel free to reach out to me if you have any job opportunities that you think I may be a good fit for, I look forward to working woth you. You can also reach out and open an issue or submit a pull request.
 </p>
