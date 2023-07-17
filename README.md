@@ -48,7 +48,7 @@ This "budget-app-front" is the frontend app portion that pairs with the "budget-
 </p>
 <h2>Open Work & Collaboration opportunities</h2>
 <p>
-As a begginner Full-Stack web developer I am seeking and am open to collaborating on work projects. Feel free to reach out to me if you have any job opportunities that you think I may be a good fit for, I look forward to working woth you. You can also reach out and open an issue or submit a pull request.
+As a begginner Full-Stack web developer I am seeking and am open to collaborating on work projects. Feel free to reach out to me if you have any job opportunities that you think I may be a good fit for, I look forward to hearing from you. You can also reach out and open an issue or submit a pull request.
 </p>
     <h2>License</h2>
 <p>
