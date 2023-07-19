@@ -2,26 +2,30 @@ judychuepursuit
 <!DOCTYPE html>
 <html>
   <head>
-   <h1>👋🏻 Hello &  Welcome to My Budgeting App 👋🏻</h1>
+   <h1>👋🏻 Hello, Welcome to My Budgeting App 👋🏻</h1>
 <h3>by Judy Chue</h3>
   </head>
   <body>
-    <h1>Budgeting App Frontend</h1>
+    <h1>Budget App Backend</h1>
     <p>
-This "budget-app-front" is the frontend app portion that pairs with the "budget-app" (backend app) for the Project named Budget App.
+This "budget-app" is the backend app portion (EXPRESS) that pairs with the "budget-app-front" (frontend app, REACT) for the Project named Budget App.</p>
+<h3>My Budget app Home_pg:<h3> 
+<img alt="Budget Home page" src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Frnt_budget%20App_home_pg%20alt%20.png" width="450"></img>
 <br> 
-<h1> My Trello Board:<h2> https://trello.com/invite/b/h1zCeMxp/ATTI3eaecc14084ef4a9b610e45975617a2bC0E63F33/jc-project-budgeting-app</h1>
-<h3>Budget app sketch:<h3> 
-![sketch](https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Budget%20App%20Sketch_2.png)  
-  
-<h2> Here are the Github repository links: Front and Back end of My Budget App:</h2>
-    <ul>
+<h3>My Trello Board:<h3> 
+<img alt="trello" src="https://github.com/judychuepursuit/budget-app-front/blob/main/src/img/Judy%20Budget%20app%20Trello%20Board.png" width="450"></img>
+
+<h3>My Budget app sketch:<h3> 
+<img alt="sketch" src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Budget%20App%20Sketch_2.png" width="450"></img>
+
+<h2> Here are the Github repository links: Front and Back end to My Budget App:</h2>
+      <ul>
         <li>DATABASE_URL: https://github.com/judychuepursuit/budget-app-front</li>
         <li>PORT: <a href="http://http://localhost:3000">http://localhost:3006</a></li>
 <br>
         <li>DATABASE_URL: https://github.com/judychuepursuit/budgeting-app</li>
         <li>PORT: <a href="http://http://localhost:3000">http://localhost:3000</a></li>
-    </ul>
+      </ul>
 
 <h2> This App applies the C-R-U-D points.</h2>
 <p>HTTP Methods: HTTP methods are also called verbs. They are types of requests you can make to a server. The four most common ones are listed below:</p>
@@ -32,11 +36,11 @@ This "budget-app-front" is the frontend app portion that pairs with the "budget-
       <li>PUT /transactions/: id: Updates the transaction with the specified ID.</li>
       <li>DELETE /transactions/: id: Deletes the transaction with the specified ID.</li>
 </ul>
-<h2>Budgeting App Frontend</h2>
+<h2>Budget App Frontend</h2>
 <p>
   The REACT app uses the following installs and dependencies: axios, react, react-dom, react-router-dom, react-scripts, uuid, web-vitals in order to connect to the back end and the request be viewed on local host.
 <br>
-  <h2>Budgeting App Backend</h2>
+  <h2>Budget App Backend</h2>
   The EXPRESS app uses the following installs and dependencies: express, nodemon, dotenv & cors. Also, add .env and type in the PORT=3006 (edit the last # accordingly). Make sure that the .env file has been correctly saved inside the main folder.  
   <h2>contact info:</h2>
 <ul>
@@ -46,7 +50,7 @@ This "budget-app-front" is the frontend app portion that pairs with the "budget-
     <li>💡  https://judychuepursuit.github.io/my-bio-judy-chue/</li>
 </ul>
 </p>
-<h2>Open Work & Collaboration opportunities</h2>
+<h2>Open to Work & Collaboration opportunities</h2>
 <p>
 As a begginner Full-Stack web developer I am seeking and am open to collaborating on work projects. Feel free to reach out to me if you have any job opportunities that you think I may be a good fit for, I look forward to hearing from you. You can also reach out and open an issue or submit a pull request.
 </p>
