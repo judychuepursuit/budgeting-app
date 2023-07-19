@@ -13,7 +13,7 @@ This "budget-app-front" is the frontend app portion that pairs with the "budget-
 <h1> My Trello Board:<h2> https://trello.com/invite/b/h1zCeMxp/ATTI3eaecc14084ef4a9b610e45975617a2bC0E63F33/jc-project-budgeting-app</h1>
 
 <h3>Budget app sketch:<h3> 
-![Budget app sketch](https://img/Budget%20App%20Sketch_2.png)
+![Budget app sketch](https://github.com/judychuepursuit/budget-app-front/blob/main/src/img/Budget%20App%20Sketch_2.png)
 
 https://github.com/judychuepursuit/budget-app-front/blob/main/src/img/Budget%20App%20Sketch_2.png
 
