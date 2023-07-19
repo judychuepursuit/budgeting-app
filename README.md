@@ -10,13 +10,13 @@ judychuepursuit
     <p>
 This "budget-app" is the backend app portion (EXPRESS) that pairs with the "budget-app-front" (REACT) for the Project named Budget App.</p>
 <h3>My Budget app Home_pg:<h3> 
-<img alt="Budget Home page" src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Frnt_budget%20App_home_pg%20alt%20.png" width="450"></img>
+<img alt="Budget Home page" src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Frnt_budget%20App_home_pg%20alt%20.png" width="350"></img>
 <br> 
 <h3>My Trello Board:<h3> 
-<img alt="trello" src="https://github.com/judychuepursuit/budget-app-front/blob/main/src/img/Judy%20Budget%20app%20Trello%20Board.png" width="450"></img>
+<img alt="trello" src="https://github.com/judychuepursuit/budget-app-front/blob/main/src/img/Judy%20Budget%20app%20Trello%20Board.png" width="350"></img>
 
 <h3>My Budget app sketch:<h3> 
-<img alt="sketch" src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Budget%20App%20Sketch_2.png" width="450"></img>
+<img alt="sketch" src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Budget%20App%20Sketch_2.png" width="350"></img>
 
 <h2> Here are the Github repository links: Front and Back end to My Budget App:</h2>
       <ul>
