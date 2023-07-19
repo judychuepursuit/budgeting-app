@@ -8,7 +8,7 @@ judychuepursuit
   <body>
     <h1>Budget App Backend</h1>
     <p>
-This "budget-app" is the backend app portion (EXPRESS) that pairs with the "budget-app-front" (frontend app, REACT) for the Project named Budget App.</p>
+This "budget-app" is the backend app portion (EXPRESS) that pairs with the "budget-app-front" (REACT) for the Project named Budget App.</p>
 <h3>My Budget app Home_pg:<h3> 
 <img alt="Budget Home page" src="https://raw.githubusercontent.com/judychuepursuit/budget-app-front/main/src/img/Frnt_budget%20App_home_pg%20alt%20.png" width="450"></img>
 <br> 
